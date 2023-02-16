@@ -1,0 +1,4 @@
+#se van a ignorar estos archivos
+#obviar aichivos con extension class
+
+*.class
